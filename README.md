@@ -1,2 +1,2 @@
 # Projetos
-Repositório de Projetos voltados a Data Science e Machine Learning
+Repositório de Projetos / Estudos voltados a Data Science e Machine Learning
