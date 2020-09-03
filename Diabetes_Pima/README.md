@@ -15,10 +15,10 @@ Estrutura: 768 registros e 9 colunas
 Colunas:
 
 Pregnancies -> quantas vezes já ficou grávida            
-Glucose -> Nível de glicose                    
+Glucose -> Nivel de glicose                    
 BloodPressure -> Pressão sanguínea            
 SkinThickness -> Espessura da pele           
-Insulin -> Nível de insulina                   
+Insulin -> Nivel de insulina                   
 BMI -> ïndice IMC                    
 DiabetesPedigreeFunction -> linhagem de diabetes
 Age -> Idade 
