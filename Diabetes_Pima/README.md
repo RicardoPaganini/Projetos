@@ -22,8 +22,7 @@ Insulin -> Nível de insulina
 BMI -> Índice IMC                    
 DiabetesPedigreeFunction -> linhagem de diabetes
 Age -> Idade 
-
-* Outcome -> Variável target 
+Outcome -> Variável target 
 
 
 Arquivos do projeto: 
