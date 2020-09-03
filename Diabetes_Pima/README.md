@@ -15,12 +15,23 @@ Estrutura: 768 registros e 9 colunas
 Colunas:
 
 Pregnancies -> quantas vezes já ficou grávida            
-Glucose -> Nivel de glicose                    
+Glucose -> Nível de glicose                    
 BloodPressure -> Pressão sanguínea            
 SkinThickness -> Espessura da pele           
-Insulin -> Nivel de insulina                   
-BMI -> ïndice IMC                    
+Insulin -> Nível de insulina                   
+BMI -> Índice IMC                    
 DiabetesPedigreeFunction -> linhagem de diabetes
 Age -> Idade 
 
 * Outcome -> Variável target 
+
+
+Arquivos do projeto: 
+diabetesPima_1.pdf -> Todo o desenvolvimento do código em PDF
+diabetesPima_1.ipynb -> Todo o desenvolvimento do código em Jupiter Notebook
+model_rf.joblib -> Modelo Random Forest Treinado
+
+
+
+
+
