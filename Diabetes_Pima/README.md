@@ -25,9 +25,10 @@ Age -> Idade
 Outcome -> Variável target (0 = No, 1 = Yes)                                                                                                                        
 
 Arquivos do projeto: 
-diabetesPima_1.pdf -> Todo o desenvolvimento do código em PDF
-diabetesPima_1.ipynb -> Todo o desenvolvimento do código em Jupiter Notebook
-model_rf.joblib -> Modelo Random Forest Treinado
+                                                                                                                                                                    
+diabetesPima_1.pdf -> Todo o desenvolvimento do código em PDF                                                                                                       
+diabetesPima_1.ipynb -> Todo o desenvolvimento do código em Jupiter Notebook                                                                                        
+model_rf.joblib -> Modelo Random Forest Treinado                                                                                                                    
 
 
 
