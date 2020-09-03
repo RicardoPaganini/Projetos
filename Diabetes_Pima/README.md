@@ -21,8 +21,8 @@ SkinThickness -> Espessura da pele
 Insulin -> Nível de insulina                   
 BMI -> Índice IMC                    
 DiabetesPedigreeFunction -> linhagem de diabetes                                                                                                                       
-Age -> Idade
-Outcome -> Variável target (0 = No, 1 = Yes)
+Age -> Idade                                                                                                                                                        
+Outcome -> Variável target (0 = No, 1 = Yes)                                                                                                                        
 
 Arquivos do projeto: 
 diabetesPima_1.pdf -> Todo o desenvolvimento do código em PDF
