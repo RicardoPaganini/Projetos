@@ -20,7 +20,7 @@ BloodPressure -> Pressão sanguínea
 SkinThickness -> Espessura da pele           
 Insulin -> Nível de insulina                   
 BMI -> Índice IMC                    
-DiabetesPedigreeFunction -> linhagem de diabetes
+DiabetesPedigreeFunction -> linhagem de diabetes                                                                                                                       
 Age -> Idade
 Outcome -> Variável target (0 = No, 1 = Yes)
 
